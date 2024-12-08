@@ -1,9 +1,0 @@
-{
-	"name": "Smiling Pastas",
-	"description": "Mod based off a song made by SaGa!",
-	"restart":false,
-	"runsGlobally": false,
-	"color": [2, 25, 87],
-	"discordRPC": "863222024192262205",
-	"iconFramerate": 10
-}
